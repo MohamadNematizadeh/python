@@ -4,5 +4,5 @@
 
 
 # Interstellar Geme_Mohammad 2023
-1. ## **_home_**
+1. ## **home**
 ![screen shot](https://github.com/Mohammadnematizade/python/blob/main/Python.Geme.Arcade/sesone13/img/Capture.PNG?raw=true)
