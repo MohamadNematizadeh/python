@@ -5,4 +5,4 @@
 
 # Interstellar Geme_Mohammad 2023
 1. ## **_home_**
-![screen shot](img\Capture.PNG)
+![screen shot](sesone13/img/Capture.PNG)
